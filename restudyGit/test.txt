@@ -3,3 +3,4 @@ taobao.com
 alibaba.com
 tecent.com
 meituan.com
+didiglobal.com
